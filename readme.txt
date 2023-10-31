@@ -1,4 +1,6 @@
-Jupyter Notebook Installation Guide:
+Fire Detection Model using Machine Learning
+
+To open the files, Jupyter Notebook Installation Guide:
 
 https://www.geeksforgeeks.org/how-to-install-jupyter-notebook-in-windows/
 
